@@ -3,7 +3,7 @@ A descriptive guide to the concepts of ReactJs
 
 ## JSX
 
-[https://reactjs.org/docs/introducing-jsx.html](Introduction to JSX)
+[Introduction to JSX](https://reactjs.org/docs/introducing-jsx.html)
 
 ## State and Props
 
